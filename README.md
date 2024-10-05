@@ -1,0 +1,2 @@
+Breast cancer is one of the most common cancer in women. Breast cancer can be identified by a variety of screenings such as Mammograms, Breast Ultrasound, Breast MRI or Biospy.
+In this project, I will focus on using Convolutional Neural Networks, which is a deep learning model, to process and analyze a data set of patient mammography screening. By constructing a neural network model, then training and testing samples of 100x100 pixel images, we are able to predict if the patient’s tissue is benign or cancerous.  
