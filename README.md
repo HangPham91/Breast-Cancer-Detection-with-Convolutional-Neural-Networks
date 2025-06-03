@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/16dec291-1e66-42bf-a24a-dee289283cf7" width="400" height="200">
 </div>
 
-# 🧠 IDC Breast Cancer Classification Using CNN
+# IDC Breast Cancer Classification Using CNN
 
 ## 🎯 1. Introduction:
 
