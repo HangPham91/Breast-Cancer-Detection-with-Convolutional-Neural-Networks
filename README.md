@@ -4,6 +4,11 @@
 
 # IDC Breast Cancer Classification Using CNN
 
+## Table of Contents
+- [1.Introduction](#-1-introduction)
+- [2.Tools and Skills](#%EF%B8%8F-2-tools-and-skills)
+- [3. Key Results](#-3-key-results)
+  
 ## 🎯 1. Introduction:
 
 - 🩺 **Background**
